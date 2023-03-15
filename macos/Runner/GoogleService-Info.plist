@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>784013463168-2cmq66ftfn7svujo4b3g5g6o94bf4cc0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.784013463168-2cmq66ftfn7svujo4b3g5g6o94bf4cc0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDbelz9TxcOXXbs-ZBoNkgTymo4zycxsU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>784013463168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lv.sadviser.privatenotes</string>
+	<key>PROJECT_ID</key>
+	<string>privatenotes-hornespill</string>
+	<key>STORAGE_BUCKET</key>
+	<string>privatenotes-hornespill.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:784013463168:ios:9df9964d084b5271626065</string>
+</dict>
+</plist>

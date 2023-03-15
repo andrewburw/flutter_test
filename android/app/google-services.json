@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784013463168",
+    "project_id": "privatenotes-hornespill",
+    "storage_bucket": "privatenotes-hornespill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784013463168:android:ef005ac5494cdc4e626065",
+        "android_client_info": {
+          "package_name": "lv.sadviser.privatenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784013463168-32pe2lq5m3kchc6mgv03sffd00oklue6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEeP2tv3EIqzCmg7i7er_Ex3RNs-Cz48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784013463168-32pe2lq5m3kchc6mgv03sffd00oklue6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
